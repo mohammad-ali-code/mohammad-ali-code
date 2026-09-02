@@ -1,11 +1,5 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
-
----
-
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+# 😎 Hay , I'm Mohammad Ali  
+I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
 
 ---
 
