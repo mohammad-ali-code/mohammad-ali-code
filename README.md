@@ -8,7 +8,7 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h1></summary>
+    <summary><h3 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h3></summary>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Curious+about+how+things+work;Building+with+JavaScript+%26+TypeScript;Exploring+Backend+%26+Computer+Science&center=true&width=600&height=50" />
   </a>
   </ul>
@@ -16,7 +16,7 @@
 
 ---
 
-# 🙋‍♂️ About me 
+## 🙋‍♂️ About me 
 - 🔭 I am a Full-Stack Developer building modern and scalable web applications with the MERN stack.
 - 🧠 I enjoy understanding how things work under the hood, from web technologies and backend systems to the fundamentals of computer science.
 - 🚀 I am currently learning more about backend engineering and exploring technologies that make an application reliable, efficient, and scalable.
