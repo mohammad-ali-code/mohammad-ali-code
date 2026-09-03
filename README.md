@@ -22,8 +22,7 @@
 - 🚀 I am currently learning more about backend engineering and exploring technologies that make an application reliable, efficient, and scalable.
 - ⚙️ My dream goal is to understand how software communicates with hardware, dive deep into C and low-level systems, and someday contribute to major operating systems.
 - 💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and REST APIs.
-- 📫 Feel free to reach me out **[Email](muhammadali.pass1@gmail.com)**
-
+- 📫 Feel free to reach me out **[Email](mailto:muhammadali.pass1@gmail.com)**
 
 ---
 
