@@ -2,7 +2,10 @@
 <img width="2172" height="724" alt="MohammadGithubCoverPhoto" src="./assets/github personal repo banner.png" />
 </p>
 
-# 😎 Hay , I'm Mohammad Ali
+<div align="center">
+  # 😎 Hay , I'm Mohammad Ali
+</div>
+
 
 I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
 
