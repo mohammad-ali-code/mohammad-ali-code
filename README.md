@@ -75,8 +75,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default" alt="Most Used Languages" />
 </p>
 
 ---
