@@ -81,9 +81,6 @@
     height="200"
     alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default"
     width="450"
