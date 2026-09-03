@@ -76,7 +76,7 @@
   <img
     src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default"
     width="450"
-    height="220"
+    height="200"
     alt="GitHub Stats"
   />
   <img
