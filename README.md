@@ -74,9 +74,10 @@
 
 ## 📊 GitHub Stats
 
-|                                                      GitHub Stats                                                       |                                                      Most Used Languages                                                       |
-| :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
 
 ---
 
