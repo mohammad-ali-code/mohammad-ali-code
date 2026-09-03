@@ -74,10 +74,26 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default"
+        width="450"
+        height="200"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default"
+        width="450"
+        height="200"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
