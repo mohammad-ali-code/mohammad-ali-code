@@ -2,7 +2,7 @@
 <img width="2172" height="724" alt="MohammadGithubCoverPhoto" src="./assets/github personal repo banner.png" />
 </p>
 <div align="center">
-  ##😎 Hay , I'm Mohammad Ali
+  ## 😎 Hay , I'm Mohammad Ali
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
