@@ -81,7 +81,6 @@
     height="200"
     alt="Most Used Languages"
   />
-  
   <img
     src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default"
     width="450"
