@@ -14,10 +14,15 @@
   </ul>
 </div>
 
+---
+
 # 🙋‍♂️ About me 
-
-I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
-
+- 🔭 I am a Full-Stack Developer building modern and scalable web applications with the MERN stack.
+- 🧠 I enjoy understanding how things work under the hood, from web technologies and backend systems to the fundamentals of computer science.
+- 🚀 I am currently learning more about backend engineering and exploring technologies that make an application reliable, efficient, and scalable.
+- ⚙️ My dream goal is to understand how software communicates with hardware, dive deep into C and low-level systems, and someday contribute to major operating systems.
+- 💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and REST APIs.
+- 📫 Feel free to reach me out **[Email](muhammadali.pass1@gmail.com)**
 
 
 ---
