@@ -1,17 +1,14 @@
 <p>
 <img width="2172" height="724" alt="MohammadGithubCoverPhoto" src="./assets/github personal repo banner.png" />
 </p>
-
 <div align="center">
   <h1>😎 Hay , I'm Mohammad Ali</h1>
 </div>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Curious+about+how+things+work;Building+with+JavaScript+%26+TypeScript;Exploring+Backend+%26+Computer+Science&center=true&width=600&height=50" />
   </a>
 </p>
-
 I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
 
 ---
