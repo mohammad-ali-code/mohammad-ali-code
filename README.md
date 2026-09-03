@@ -1,14 +1,20 @@
+<!--- banner --->
 <p>
 <img width="2172" height="724" alt="MohammadGithubCoverPhoto" src="./assets/github personal repo banner.png" />
 </p>
+
+<br/>
+
+<!--- title --->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h1></summary>
-    <!--- typo --->
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Curious+about+how+things+work;Building+with+JavaScript+%26+TypeScript;Exploring+Backend+%26+Computer+Science&center=true&width=600&height=50" />
   </a>
   </ul>
 </div>
+
+# 
 
 I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
 
@@ -18,11 +24,13 @@ I am a Full-Stack Developer currently working with the MERN stack. I love buildi
 
 ### **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### **Backend**
 
