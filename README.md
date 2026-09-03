@@ -87,7 +87,3 @@
     alt="GitHub Stats"
   />
 </p>
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
