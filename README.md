@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-# About me 
+# 👨‍💻🙋‍♂️ About me 
 
 I am a Full-Stack Developer currently working with the MERN stack. I love building web applications and learning how things work under the hood. I'm now exploring deeper areas of backend engineering and computer science.
 
