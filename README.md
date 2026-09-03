@@ -8,7 +8,7 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h2></summary>
+    <summary><h1 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h1></summary>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Curious+about+how+things+work;Building+with+JavaScript+%26+TypeScript;Exploring+Backend+%26+Computer+Science&center=true&width=600&height=50" />
   </a>
   </ul>
