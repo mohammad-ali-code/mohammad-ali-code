@@ -8,9 +8,8 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">😎 Hay , I'm Mohammad Ali</h1></summary>
+    <summary><h1 style="display: inline-block">😎 Hey , I'm Mohammad Ali</h1></summary>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Curious+about+how+things+work;Building+with+JavaScript+%26+TypeScript;Exploring+Backend+%26+Computer+Science&center=true&width=600&height=50" />
-  </a>
   </ul>
 </div>
 
@@ -20,9 +19,9 @@
 - 🔭 I am a Full-Stack Developer building modern and scalable web applications with the MERN stack.
 - 🧠 I enjoy understanding how things work under the hood, from web technologies and backend systems to the fundamentals of computer science.
 - 🚀 I am currently learning more about backend engineering and exploring technologies that make an application reliable, efficient, and scalable.
-- ⚙️ My dream goal is to understand how software communicates with hardware, dive deep into C and low-level systems, and someday contribute to major operating systems.
+- ⚙️ My dream is to understand how software communicates with hardware, dive deep into C and low-level systems, and someday contribute to major operating systems.
 - 💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and REST APIs.
-- 📫 Feel free to reach me out **[Email](mailto:muhammadali.pass1@gmail.com)**
+- 📫 Reach out to me **[Email](mailto:muhammadali.pass1@gmail.com)**
 
 ---
 
@@ -75,15 +74,15 @@
 
 <p align="center">
   <img
+    src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default"
+    width="450"
+    height="220"
+    alt="GitHub Stats"
+  />
+  <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-ali-code&layout=compact&theme=default"
     width="450"
     height="200"
     alt="Most Used Languages"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=mohammad-ali-code&show_icons=true&theme=default"
-    width="450"
-    height="200"
-    alt="GitHub Stats"
   />
 </p>
